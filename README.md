@@ -6,4 +6,4 @@ KU International Cafe
 
 | Cuisine                               | Contributor        |
 |:--------------------------------------|--------------------|
-| Korean Food                           |[ThanadolU](https://github.com/ThanadolU)        |
+| [Korean Food](menu.md#korean-food)            |[ThanadolU](https://github.com/ThanadolU)        |
