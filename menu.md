@@ -1,6 +1,5 @@
 ## Menu
-
-[Korean Food](#korean-food) | [Thai Food](#thai-food) | [American Food](#american-food) | [Japanese Food](#Japanese-food) |
+[Korean Food](#korean-food) | [Thai Food](#thai-food) | [American Food](#american-food) | [Japanese Food](#Japanese-food) | [Chinese Food](#chinese-food)
 
 ## Korean Food
 
@@ -42,3 +41,13 @@
 | Ramen       |   351 |
 | Tempura     |   280 |
 
+
+## Chinese Food
+
+| Menu                               | Price  |
+|:-----------------------------------|-------:|
+| Kung Pao Chicken                   | 120    |
+| Peking Duck                        | 250    |
+| Dim Sum                            | 180    |
+| Mapo Tofu                          | 200    |
+| Sweet and Sour Pork                | 150    |
