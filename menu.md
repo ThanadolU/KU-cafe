@@ -1,5 +1,14 @@
 ## Menu
 
-[First Food Section](#first-food-section) | ...
+[Japanese Food](#Japanese-food) | ...
 
-## First Food Section
+## Japanese-food
+
+| Menu        | Price |
+|:------------|------:|
+| Yakisoba    |   280 |
+| Okonomiyaki |   280 |
+| Takoyaki    |   175 |
+| Ramen       |   351 |
+| Tempura     |   280 |
+
