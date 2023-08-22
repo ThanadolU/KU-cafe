@@ -1,6 +1,6 @@
 ## Menu
 
-[Japanese Food](#Japanese-food) | ...
+[Japanese Food](#Japanese-food) |
 
 ## Japanese-food
 
