@@ -1,8 +1,8 @@
 ## Menu
 
-[American Cuisine](#American-Cuisine) | ...
+[American Cuisine](#American-Food) | ...
 
-## American Cuisine
+## American Food
 | Menu                | Price |
 |:--------------------|-------|
 | Mac and Cheese      | 60    |
