@@ -6,4 +6,4 @@ This is ku-international-cafe that including five types of food ethnicity which 
 
 | Cuisine                               | Contributor        |
 |:--------------------------------------|--------------------|
-|  Thai-food                                     |          [thanidacwn](https://github.com/thanidacwn)       |
+|  [Thai Food](menu.md#thai-food)                                |          [thanidacwn](https://github.com/thanidacwn)       |

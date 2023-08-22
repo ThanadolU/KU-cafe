@@ -1,8 +1,8 @@
 ## Menu
 
-[Thai-food](#Thai-food) |
+[Thai Food](#thai-food) |
 
-## Thai-food
+## Thai Food
 
 | Menu                                  | Price  |
 |:--------------------------------------|-------:|
