@@ -1,9 +1,9 @@
 # KU International 
 
-KU International Cafe is a cafe that 
+KU International Cafe 
 
 ## [Menu](menu.md)
 
 | Cuisine                               | Contributor        |
 |:--------------------------------------|--------------------|
-| Korean Food                           | ThanadolU          |
+| Korean Food                           |[ThanadolU](https://github.com/ThanadolU)        |
