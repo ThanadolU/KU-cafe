@@ -1,7 +1,7 @@
-# SKE Cafe
+# KU International Cafe
 
-This is SKE-Cafe which is an international cafe consists of five types of food ethnicity, 
-which are Thai, Chinese, American, Korean, and Japanese.
+KU International Cafe is an international consists fo 5 type of food ethnicity 
+which are Thai, Chinese, Korean, american, and Japanese.
 
 ## [Menu](menu.md)
 
