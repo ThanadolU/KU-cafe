@@ -1,5 +1,5 @@
 ## Menu
- [Chinese Food](#chinese-food) | ...
+ [Japanese Food](#japanese-food) | [Chinese Food](#chinese-food) | [Korean Food](#korean-food) | [American Food](#american-food) | [Thai Food](#thai-food)
 
 ## Chinese Food
 
