@@ -1,8 +1,18 @@
 ## Menu
 
-[Thai-food](#Thai-food) |
+[Korean Food](#korean-food) | [Thai Food](#thai-food) |
 
-## Thai-food
+## Korean Food
+
+|  Menu     | Price   |
+|:----------|--------:|
+| Bibimbap  | 120     |
+| Gimbap    | 100     |
+| Bulgogi   | 150     |
+| Kimchi    | 140     |
+| Ramyun    | 130     |
+
+## Thai Food
 
 | Menu                                  | Price  |
 |:--------------------------------------|-------:|
