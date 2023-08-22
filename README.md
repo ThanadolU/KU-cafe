@@ -1,9 +1,9 @@
-# KU International Cafe
+# Name of Your Cafe
 
-KU International Cafe is an international consists fo 5 type of food ethnicity which are Thai, Chinese, Korean, american, and Japanese.
+Write a one or two sentence description of your cafe.
 
 ## [Menu](menu.md)
 
-| Cuisine  | Contributor  |
-|:---------|--------------|
-| American | PanupunJanin |
+| Cuisine                               | Contributor        |
+|:--------------------------------------|--------------------|
+|                                       |                    |
