@@ -1,5 +1,12 @@
 ## Menu
+ [Chinese Food](#chinese-food) | ...
 
-[First Food Section](#first-food-section) | ...
+## Chinese Food
 
-## First Food Section
+| Description                        | Price  |
+|:-----------------------------------|-------:|
+| Kung Pao Chicken                   | 1 $    |
+| Peking Duck                        | 2 $    |
+| Dim Sum                            | 3 $    |
+| Mapo Tofu                          | 4 $    |
+| Sweet and Sour Pork                | 5 $    |
