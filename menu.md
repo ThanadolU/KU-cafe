@@ -1,6 +1,6 @@
 ## Menu
 
-[Korean Food](#korean-food) | [Thai Food](#thai-food) | [American Food](#american-food) |
+[Korean Food](#korean-food) | [Thai Food](#thai-food) | [American Food](#american-food) | [Japanese Food](#Japanese-food) |
 
 ## Korean Food
 
@@ -31,3 +31,14 @@
 | Smashed Burger      | 80    |
 | Chicken and Waffles | 100   |
 | S'mores             | 60    |
+
+## Japanese-food
+
+| Menu        | Price |
+|:------------|------:|
+| Yakisoba    |   280 |
+| Okonomiyaki |   280 |
+| Takoyaki    |   175 |
+| Ramen       |   351 |
+| Tempura     |   280 |
+
