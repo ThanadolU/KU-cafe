@@ -1,9 +1,12 @@
-# Name of Your Cafe
+# SKE Cafe
 
-Write a one or two sentence description of your cafe.
+This is SKE-Cafe which is an international cafe consists of five types of food ethnicity, which are Thai, Chinese, American, Korean, and Japanese.
 
 ## [Menu](menu.md)
 
-| Cuisine                                | Contributor                                                 |
-|:---------------------------------------|-------------------------------------------------------------|
-| [Japanese food](menu.md#japanese-food) | [Nantawat6510545543](https://github.com/Nantawat6510545543) |
+| Cuisine                               | Contributor         |
+|:--------------------------------------|--------------------:|
+| [Korean Food](menu.md#korean-food)    |[ThanadolU](https://github.com/ThanadolU)      |
+| Thai Food                             |[thanidacwn](https://github.com/thanidacwn)    |
+| American Food                         |[PanupunJanin](https://github.com/PanupunJanin)|
+| [Japanese food](menu.md#japanese-food)| [Nantawat6510545543](https://github.com/Nantawat6510545543) |
