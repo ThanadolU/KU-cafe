@@ -5,6 +5,6 @@ which are Thai, Chinese, Korean, american, and Japanese.
 
 ## [Menu](menu.md)
 
-| Cuisine       | Contributor  |
-|:--------------|--------------|
-| American Food | PanupunJanin |
+| Cuisine       | Contributor                                     |
+|:--------------|-------------------------------------------------|
+| American Food | [PanupunJanin](https://github.com/PanupunJanin) |
