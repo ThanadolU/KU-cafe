@@ -1,9 +1,9 @@
-# Name of Your Cafe
+# KU International 
 
-Write a one or two sentence description of your cafe.
+KU International Cafe is a cafe that 
 
 ## [Menu](menu.md)
 
 | Cuisine                               | Contributor        |
 |:--------------------------------------|--------------------|
-|                                       |                    |
+| Korean Food                           | ThanadolU          |
